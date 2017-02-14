@@ -1,5 +1,5 @@
 # Holiday-Wreath-Automation
-Here is a great way to modify and add that extra wow factor to your holiday wreath that hangs outside your front door! This your cousins and neighbors will appreciate and admire when they visit you for the holidays.
+Here is a great way to modify and add an extra wow factor to your holiday wreath that hangs outside your front door! This your cousins and neighbors will appreciate and admire when they visit you for the holidays.
 
 For this project, you can keep it simple or go all in implementing all the features:
 
